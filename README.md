@@ -1,4 +1,4 @@
-### Hi, I'm Ana 👋
+### Hi, I'm Ana 
 Software Engineering & Game Development | Building AR, Web, & CLI Tools
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabiatul0308&layout=compact&theme=tokyonight)
