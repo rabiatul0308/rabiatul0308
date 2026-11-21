@@ -1,7 +1,7 @@
 ### Hi, I'm Ana 
 Software Engineering & Game Development | Building AR, Web, & CLI Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabiatul0308&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabiatul0308&layout=compact&theme=tokyonight&langs_count=8)
 
 ### Languages & Tools
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
